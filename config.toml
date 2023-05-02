@@ -1,0 +1,34 @@
+baseURL = 'https://inksync.goldgust.net/'
+languageCode = 'en-uk'
+title = 'Ink Sync'
+theme = "mainroad"
+summaryLength = 25
+copyright = "Ink Sync"
+pluralizelisttitles = false
+
+[Params.logo]
+  image = false
+  title = "Ink Sync"
+  subtitle = "Fountain pens, ink and other stationery"
+
+[Params.style.vars]
+  highlightColor = "#865e3c"
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "false"
+  widgets = ["search", "recent", "categories", "taglist"]
+
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about"
