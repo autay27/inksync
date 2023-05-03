@@ -20,7 +20,7 @@ pluralizelisttitles = false
 [Params.sidebar]
   home = "right"
   list = "right"
-  single = false
+  single = "right"
   widgets = ["search", "recent", "categories", "taglist"]
 
 
@@ -35,3 +35,8 @@ pluralizelisttitles = false
     identifier = "about"
     weight = 200
     url = "/about"
+[[menu.main]]
+    name = "RSS"
+    identifier = "rss"
+    weight = 200
+    url = "/index.xml"

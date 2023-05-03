@@ -18,13 +18,13 @@ I got my bottle of Florida Blue about 5 years ago, when I was just starting to g
 
 {{< figure src="fine.jpg" caption="Pilot Kakuno, F nib." >}}
 
-Nevertheless, it's the first bottle of ink I've finished... but not because I actually used it all. I did write a lot with it, but I also knocked over the bottle once and spilled some, and I suspect some also evaporated from the cheap plastic Diamine bottle. That got me down to the last few mls. I was close to success now, but my goal was not to be achieved so soon. Because my tastes were changing.
+Nevertheless, it's the first bottle of ink I've finished... but not because I actually used it all. I did write a lot with it, but I also spilled some once, and I suspect some also evaporated from the cheap plastic Diamine bottle. That got me down to the last few mls. I was close to success now, but my goal was not to be achieved so soon. Because my tastes were changing.
 
 {{< figure src="bottle_fixedbg.jpg" caption="Back then, I excitedly tore off the label so I could see my progress in using it up. Now, it means I can see weird gunk where it evaporated from the sides of the bottle." >}}
 
 As I settled in to my fountain pen hobby over the years, it got to the point where I simply never wanted to use this ink. It's not that I don't like bright colours any more. No, it's that I started to use different colours together - multicolour is useful for uni notes, pretty journaling and appreciating more of my pens at once. I've come to care more about how ink colours complement and contrast each other than any individual shade.
 
-The problem with Florida Blue is that (for my tastes) it just doesn't look good next to other inks. It outshines subtler colours, yet it's too dark to look good with brights, and it's a weird shade of blue that doesn't complement any other blue ink I own. When it stands alone on the page, Florida Blue is still a beautiful jewel-like blue. But that isn't enough for me anymore: I want my ink palette to be harmonious. And Florida Blue is... overly individualistic.
+The problem with Florida Blue is that (for my tastes) it just doesn't look good next to other inks. It outshines subtler colours, yet it's too dark to look good with brights, and it's a weird shade of blue that doesn't complement any other blue ink I own. When it stands alone on the page, Florida Blue is still a beautiful jewel tone. But that isn't enough for me anymore: I want my ink palette to be harmonious. And Florida Blue is... overly individualistic.
 
 {{< figure src="broad.jpg" caption="Lamy Safari, B nib." >}}
 
@@ -32,4 +32,4 @@ Since my ink box is getting cramped, I decided it was time to say goodbye. No on
 
 As a bonus, I found some of my schoolwork from five years ago. (The orange ink in the corner was a mixture of Diamine Pumpkin and Yellow.)
 
-{{< figure src="school_edited.jpg" caption="Looks like I was studying mechanics... it was my worst subject back then." >}}
+{{< figure src="school_edited.jpg" caption="Looks like I was studying mechanics... thank goodness I don't have to do that anymore." >}}
