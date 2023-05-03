@@ -12,7 +12,7 @@ I'm beginning this blog with an ending. Specifically, the end of a bottle of ink
 
 {{< figure src="full.jpg" caption="Text from A Wizard of Earthsea. The notebook is Clairefontaine. This Lamy Safari is the Blue Macaron from 2019." >}}
 
-Diamine Florida Blue is a very bright medium blue. It's still dark enough to be easily legible, though - not bright via eye-bleeding neon, but via intense saturation. It's a typical well-behaved Diamine ink with plenty of shading and no sheen. There is a faint water-resistant component - if you spill water on your notes, you should still be able to read them. It bleeds through a bit on cheaper paper.
+Diamine Florida Blue is a very bright medium blue. It's still dark enough to be easily legible, though - not bright via eye-bleeding neon, but via intense saturation. It's a typical well-behaved Diamine ink with plenty of shading and no sheen. There is a faint water-resistant component, so if you spill water on your notes, you should still be able to read them. It bleeds through a bit on cheaper paper.
 
 I got my bottle of Florida Blue about 5 years ago, when I was just starting to get 'into' fountain pens. Back then, as a secondary school student who was only allowed to write in blue or black, a brighter blue was the closest I could get to an individualistic colour. I liked the shade so much that I planned to use it constantly, and to finish the bottle before I bought any more blue ink. So naive... I'm about to graduate from university now, and I'm only just finishing it. (And in the meantime, I bought plenty of other blue inks.)
 
