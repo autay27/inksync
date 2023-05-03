@@ -2,9 +2,12 @@ baseURL = 'https://inksync.goldgust.net/'
 languageCode = 'en-uk'
 title = 'Ink Sync'
 theme = "mainroad"
-summaryLength = 25
+summaryLength = 30
 copyright = "Ink Sync"
 pluralizelisttitles = false
+
+[Params]
+  pager = true
 
 [Params.logo]
   image = false
@@ -17,7 +20,7 @@ pluralizelisttitles = false
 [Params.sidebar]
   home = "right"
   list = "right"
-  single = "false"
+  single = false
   widgets = ["search", "recent", "categories", "taglist"]
 
 
