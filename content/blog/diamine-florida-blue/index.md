@@ -8,7 +8,7 @@ thumbnail: "blog/diamine-florida-blue/bottle_fixedbg.jpg"
 comments:
   host: sunny.garden
   username: inksync
-  id: 110318706982750142
+  id: 110319029805588275
 ---
 
 I'm beginning this blog with an ending. Specifically, the end of a bottle of ink.
