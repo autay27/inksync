@@ -9,3 +9,9 @@ Hi there. I use fountain pens every day for taking notes and journaling. I like 
 All photos are intended to give a general impression, not an accurate depiction, of the subject. They do not make a good reference, e.g. for the colour of ink.
 
 I am based in the UK. You can contact me at goldgustwindfall@gmail.com.
+
+---
+
+Credits:
+
+[Hugo code for loading Mastodon comments, by Carl Schwan](https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/)
