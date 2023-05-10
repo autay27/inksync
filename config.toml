@@ -8,6 +8,7 @@ pluralizelisttitles = false
 
 [Params]
   pager = true
+  post_meta = ["date", "categories"]
 
 [Params.logo]
   image = false

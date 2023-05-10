@@ -1,8 +1,10 @@
 ---
 title: "Fountain pen friendly, student friendly (Silvine paper)"
 date: 2023-05-07T23:43:38+01:00
+summary: "All this time there was another fountain pen friendly paper hiding away in the 'cheap notebooks' section."
 tags: [notebooks, paper, silvine, review]
-draft: true
+thumbnail: "blog/silvine-paper/spreadout.jpg"
+draft: false
 ---
 
 {{< figure src="writing.jpg" caption="Writing just fine, no feathering. Text is from A Wizard of Earthsea." >}}
@@ -11,7 +13,7 @@ Here in the UK, the two brands of paper you will find in the "quality notebooks"
 
 Silvine is a paper brand manufactured by Sinclairs, based in Yorkshire. They claim to make their paper from sustainable sources, and are FSC certified, which is nice.
 
-Is their paper really cheaper? Well, I'm not a stationery stockist, but I checked prices of single A4 staple-bound ruled notebooks at some UK retailers. Per page Optik was about half as expensive as Rhodia, and Silvine was about half as expensive as Optik.
+Is their paper really cheaper? Well, I'm not a stationery stockist, but I checked prices of single A4 staple-bound ruled notebooks at some UK retailers' websites. Per page Optik was about half as expensive as Rhodia, and Silvine was about half as expensive as Optik.
 
 Silvine also makes other products, most of which I have not tried, although I am fond of their dot grid refill pads.
 
@@ -29,7 +31,7 @@ Plenty of shading, for example here in Kaweco Smokey Grey. I see a glint of gold
 
 I don't have any properly sheening inks to test, but [here](https://www.fountainpennetwork.com/forum/topic/312374-silvine-originals-memo-book/) is a review on Fountain Pen Network, noting a lack of sheen. Silvine may be nice and thin, but this is not the British answer to Tomoe River.
 
-The slightly rougher surface lends itself to pencils. I also used some ballpoints (including my favourite Schmidt Softline) and they had the worst show-through of all, to the point where I wouldn't recommend this paper for ballpoint power users. It's just too thin.
+The rougher surface lends itself to pencils. I also tried some ballpoints (including my favourite Schmidt Softline) and they had the worst show-through of all, to the point where I wouldn't recommend this paper for ballpoint users, at least not if you're heavy-handed like me. It's just too thin.
 
 ## In use
 
@@ -39,7 +41,7 @@ I think the combination of thinner paper and a lower page count per book is a pe
 
 The A4 is for lecture notes, and it's a full year old. I like to draw on my lecture notebook covers, and this one was a doodle with paint markers inspired by _The Darkangel Trilogy_, one of my favourite science-fantasy series[^2]. The 9x7 is my current drafting notebook. The cover has grease spots from when I decided to do some writing in the kitchen.
 
-The cover is another unique thing about Silvine paper notebooks - all the ones I've seen are cardstock with this 'name and subject' box in the middle which powerfully brings to mind a school workbook. They make prettier stuff too, but I think it's a nice change to be able to buy notebooks that do not have a luxury feel at all. It takes the pressure off a bit.
+The cover is another unique thing about Silvine paper notebooks - all the ones I've seen are cardstock with this 'name and subject' box in the middle which powerfully brings to mind a school workbook. They make prettier stuff too, but I think it's a nice change to be able to buy notebooks that do not have a luxury feel at all. It takes the pressure off.
 
 Friendly paper indeed.
 
