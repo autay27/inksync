@@ -46,7 +46,7 @@ I think the combination of thinner paper and a lower page count per book is a pe
 
 The A4 is for lecture notes, and it's a full year old. I like to draw on my lecture notebook covers, and this one was a doodle with paint markers inspired by _The Darkangel Trilogy_, one of my favourite science-fantasy series[^2]. The 9x7 is my current drafting notebook. The cover has grease spots from when I decided to do some writing in the kitchen.
 
-The cover is another unique thing about Silvine paper notebooks - all the ones I've seen are cardstock with this 'name and subject' box in the middle which powerfully brings to mind a school workbook. They make prettier stuff too, but I think it's a nice change to be able to buy notebooks that do not have a luxury feel at all. It takes the pressure off.
+The cover is another unique thing about Silvine paper notebooks - all the ones I've seen on shelves are cardstock with this 'name and subject' box in the middle which powerfully brings to mind a school workbook. They make prettier stuff too, but I think it's a nice change to be able to buy notebooks that do not have a luxury feel at all. It takes the pressure off.
 
 Friendly paper indeed.
 
