@@ -5,6 +5,11 @@ summary: "All this time there was another fountain pen friendly paper hiding awa
 tags: [notebooks, paper, silvine, review]
 thumbnail: "blog/silvine-paper/spreadout.jpg"
 draft: false
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110341724235535098
 ---
 
 {{< figure src="writing.jpg" caption="Writing just fine, no feathering. Text is from A Wizard of Earthsea." >}}
