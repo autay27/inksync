@@ -1,6 +1,6 @@
 ---
 title: "Fountain pen friendly, student friendly (Silvine paper)"
-date: 2023-05-07T23:43:38+01:00
+date: 2023-05-10T23:43:38+01:00
 summary: "All this time there was another fountain pen friendly paper hiding away in the 'cheap notebooks' section."
 tags: [notebooks, paper, silvine, review]
 thumbnail: "blog/silvine-paper/spreadout.jpg"
