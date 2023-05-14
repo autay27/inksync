@@ -5,6 +5,11 @@ tags: [notebooks, tutorial, crafts, Traveler's Notebook]
 thumbnail: "blog/diy-travelers-notebook/filled.jpg"
 summary: "If you read or watch stationery content online, you might have fallen for the allure of the Traveler's Notebook by now. The design is ingenious, and simple enough that you can make your own."
 draft: false
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110364147246849548
 ---
 
 
