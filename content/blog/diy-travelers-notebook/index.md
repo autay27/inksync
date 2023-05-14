@@ -2,7 +2,7 @@
 title: "DIY Traveler's Notebook Tutorial"
 date: 2023-05-13T01:22:13+01:00
 tags: [notebooks, tutorial, crafts, Traveler's Notebook]
-thumbnail: "blog/diy-travelers-notebook/filled.jpg"
+thumbnail: "filled.jpg"
 summary: "If you read or watch stationery content online, you might have fallen for the allure of the Traveler's Notebook by now. The design is ingenious, and simple enough that you can make your own."
 draft: false
 
