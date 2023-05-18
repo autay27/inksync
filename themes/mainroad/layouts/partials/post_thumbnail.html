@@ -1,4 +1,8 @@
 {{- if $thumbnail := .page.Params.thumbnail }}
+
+
+
+
 	{{- $class := .class }}
 	{{- $visibility := .page.Site.Params.thumbnail.visibility | default (slice "list" "post") }}
 
@@ -10,9 +14,14 @@
 	{{- end }}
 
 	{{- if in $visibility $class }}
+
 	<figure class="{{ with $class }}{{ . }}__thumbnail {{ end }}thumbnail">
 		{{ if eq $class "list" }}<a class="thumbnail__link" href="{{ .page.RelPermalink }}">{{ end }}
-		<img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
+		{{ range .page.Resources.Match .page.Params.thumbnail }}
+			{{ with .Resize "500x webp" }}
+				<img class="thumbnail__image" src="{{ .RelPermalink }}">
+			{{ end }}
+		{{ end }}
 		{{ if eq $class "list" }}</a>{{ end }}
 	</figure>
 	{{- end }}
