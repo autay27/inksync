@@ -3,7 +3,7 @@ title: "Goodbye to Florida (Diamine Florida Blue)"
 date: 2023-05-03T15:48:02+01:00
 draft: false
 tags: [diamine, ink]
-thumbnail: "blog/diamine-florida-blue/bottle_fixedbg.jpg"
+thumbnail: "bottle_fixedbg.jpg"
 
 comments:
   host: sunny.garden
