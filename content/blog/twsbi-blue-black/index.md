@@ -5,6 +5,11 @@ tags: [twsbi, ink, review]
 thumbnail: "broad.jpg"
 summary: "Distinctive if you're obsessed with colours and inks, blue-black to everyone else."
 draft: false
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110401206033914744
 ---
 
 {{< figure src="fullpage.jpg" caption="The notebook is Clairefontaine 90gsm. Text from Gödel, Escher, Bach by Douglas Hofstadter." >}}
@@ -25,7 +30,7 @@ I didn't have trouble cleaning it out of my Pilots just by flushing, but I did f
 
 [^2]: You may find a thread on FPN about how it dried up and jammed a pen shut. However, later in the thread, the poster shows a writing sample of it as a dark blue sheening ink. TWSBI Blue-Black doesn't sheen! Either the bottle went bad or they've changed the formula since then.
 
-There is shading when writing, especially in a broader nib. Compared to a typical ink there is slightly more hue variation - from lighter grey-blue to darker blue-purple. Just enough to create the illusion of vibrancy and complexity while remaining unobtrusive.
+There is shading when writing, especially in a broader nib. It's hard to capture exactly how it looks in a photo. Compared to a typical ink there is slightly more hue variation - from lighter grey-blue to darker blue-purple. Just enough to create the illusion of vibrancy and complexity while remaining unobtrusive.
 
 {{< figure src="broad.jpg" caption="Lamy CP1, B nib" >}}
 
