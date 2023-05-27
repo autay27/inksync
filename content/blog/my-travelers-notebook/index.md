@@ -5,6 +5,11 @@ tags: [travelers notebook, notebooks]
 thumbnail: open.jpg
 summary: "A6 doesn't fit much, so each notebook becomes a snapshot of a small period of my life. That, or I can use it for a very specific topic."
 draft: false
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110441657467456608
 ---
 
 So, I posted a tutorial on [how to make a DIY Traveler's Notebook](/blog/diy-travelers-notebook/). Now I had better talk about my own one.
