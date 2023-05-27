@@ -1,10 +1,10 @@
 ---
 title: "My A6 Traveler's Notebook"
-date: 2023-05-19T21:15:09+01:00
+date: 2023-05-27T17:15:09+01:00
 tags: [travelers notebook, notebooks]
 thumbnail: open.jpg
 summary: "A6 doesn't fit much, so each notebook becomes a snapshot of a small period of my life. That, or I can use it for a very specific topic."
-draft: true
+draft: false
 ---
 
 So, I posted a tutorial on [how to make a DIY Traveler's Notebook](/blog/diy-travelers-notebook/). Now I had better talk about my own one.
@@ -35,7 +35,7 @@ It turned out well! Not the prettiest but it does the job and looks kind of cute
 
 I like the A6 dimension because there are so many options. At the moment I have a Seawhite sketchbook and a Rymans notebook in there, some of the cheapest stuff you could possibly find. But I can upgrade to e.g. a fancy Midori MD notebook whenever I like. If I want to bind my own sketchbooks, it will be easy to get the right size of paper by cutting some A4 sheets in half.
 
-A6 also doesn't fit much, so each notebook becomes a snapshot of a smaller period of my life. That, or I can use them for specific purposes. I have a notebook just for my TTRPG notes and I will probably be using another one as an ink log soon. I can swap them in when needed (in this case, when going to a game session or when going to a pen shop to look at ink swatches).
+A6 also doesn't fit much, so each notebook becomes a snapshot of a smaller period of my life. That, or I can use them for specific purposes. I have a notebook just for my TTRPG notes, and in the future I will probably use one as an ink log and another for language learning vocab. I can swap them in whenever I need to take them out and about.
 
 Unexpected bonus: when I had to take bank notes to the bank recently, I used a strong clip and clipped them inside the cover of one of the notebooks. They felt more secure wrapped in two layers of cover (not to mention more disguised). I've also clipped in memorabilia like tickets and flyers which I wanted to stick into my journal later.
 
