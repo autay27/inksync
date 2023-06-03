@@ -5,6 +5,11 @@ draft: false
 summary: "Nostalgia for my TWSBI Eco and bad luck with the TWSBI GO"
 thumbnail: "nibcap.jpg"
 tags: [twsbi, pens]
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110482278774293010
 ---
 
 > This is not a review, just the rambling of someone that gets sentimental about pens.
