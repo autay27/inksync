@@ -4,6 +4,11 @@ date: 2023-06-07T17:22:38+01:00
 draft: false
 thumbnail: full.jpg
 tags: [currently inked]
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110504596033627894
 ---
 
 As I've [mentioned before](/blog/diamine-florida-blue/), I use multiple fountain pens and inks at a time, and choosing combinations that work well together is one of my favourite parts of this hobby. I'm happy with the current lineup so I thought I'd share it.
