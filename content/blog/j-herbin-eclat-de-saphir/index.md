@@ -5,6 +5,11 @@ tags: [j herbin, ink, review]
 thumbnail: "broad.jpg"
 summary: "It feels like it's already gone through an Instagram beauty filter or something."
 draft: false
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110544423043386827
 ---
 
 Ink Sync's third ink review and it's yet another blue... wait, no! This ink is purple, I'm telling you! There is a line when it comes to blue and this ink has crossed it!
