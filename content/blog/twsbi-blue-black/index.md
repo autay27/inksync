@@ -14,7 +14,7 @@ comments:
 
 {{< figure src="fullpage.jpg" caption="The notebook is Clairefontaine 90gsm. Text from Gödel, Escher, Bach by Douglas Hofstadter." >}}
 
-TWSBI Blue Black is a matte blue-black. It has an excellent flow and a slightly lubricated feeling. It works on cheaper paper without bleeding through too easily, even in a broad nib.
+TWSBI Blue Black is a matte blue-black. It has an excellent flow and a slightly lubricated feeling. It is almost completely water resistant. It also works on cheaper paper without bleeding through too easily, even in a broad nib.
 
 As part of TWSBI's basic ink range, it is available in 70ml bottles, at a good price per ml, although the size means it is still an investment. I bought mine for £15.
 
