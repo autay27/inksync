@@ -1,7 +1,7 @@
 ---
 title: "My preferences in fountain pen inks"
 date: 2023-06-22T22:25:37+01:00
-tags: [ink, personal]
+tags: [ink, preferences]
 summary: "Why am I documenting this? So I can look back on it in a few years and laugh at how much things have changed."
 thumbnail: notes.jpg
 draft: false
