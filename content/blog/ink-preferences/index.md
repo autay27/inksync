@@ -5,6 +5,11 @@ tags: [ink, preferences]
 summary: "Why am I documenting this? So I can look back on it in a few years and laugh at how much things have changed."
 thumbnail: notes.jpg
 draft: false
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110590285188785715
 ---
 
 {{< figure src="notes.jpg" caption="Some essay planning I was doing a few months ago. Mirrored so you won't bother to read it." >}}
