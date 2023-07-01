@@ -4,6 +4,11 @@ date: 2023-07-02T01:39:41+08:00
 tags: [taiwan, events]
 thumbnail: iwi_ink.jpg
 draft: false
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110640233932978172
 ---
 
 I'm visiting Taiwan right now, and I decided to check out the [Taipei Stationery Fair](https://music-fair.top-link.com.tw/home). Of course I know that Taiwan is full of stationery lovers. But I still didn't expect to be met with this...
