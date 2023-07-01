@@ -56,9 +56,9 @@ I picked up a 18ml bottle of dark teal 'Spaceman' ink for NT$140 (£3.50), my on
 
 ## Thoughts
 
-The Taipei Stationery Fair is definitely best for those who like more general stationery products, artistic journaling, art supplies, and cute knicknacks from indie artists. If you only use fountain pens and premium paper, it may not be worth it, unless you like hunting down small makers.
+The Taipei Stationery Fair is definitely best for those who like more general stationery products, artistic journaling, art supplies, or cute knicknacks from indie artists. If you only use fountain pens and premium paper it may not be worth it, unless you like hunting down small makers.
 
-The biggest flaw in my opinion was the lack of a map (or at least a map that I could find). It was crowded and the air conditioning wasn't very strong, so I would take care if you have any related health issues.
+The biggest flaw in my opinion was the lack of a map (or at least a map that I could find). There was a map for the artists alley but not for the whole thing. Also it was crowded and the air conditioning wasn't very strong, so I would take care if you have any related health issues.
 
 {{< figure src="fan.jpg" caption="Human-sized fan blowing cold air, my beloved" >}}
 
