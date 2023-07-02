@@ -45,7 +45,7 @@ Quite a few indie artists and stationery makers invested in full size booths, bu
 
 There were also a few unusual ones even in the small area I explored. At the 木筆家 (Wooden Pen Home?) stall you could see a wooden pen body being machine engraved live!
 
-{{< figure src="mubijia_engraving.jpg" >}}
+{{< figure src="mubijia_engraving.jpg" caption="Oops, I had to censor my reflection in this one." >}}
 
 Apart from making wooden bodies for ballpoints, fountain pens and brush pens, they also had some with that new 'endless pencil' metal tip. If I were a businessman(?) I would want one of those on my desk.
 
