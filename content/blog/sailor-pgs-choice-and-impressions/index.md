@@ -1,5 +1,5 @@
 ---
-title: "Things no one told me about the Sailor Pro Gear Slim, and how I chose a colourway"
+title: "Things no one told me about the Sailor Pro Gear Slim, and how I picked mine"
 date: 2023-07-08T10:41:29+08:00
 thumbnail: uncapped.jpg
 summary: "The pen is pretty much as everyone describes it. But there are some details which I only found out after writing with one myself."
