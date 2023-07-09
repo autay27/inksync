@@ -5,6 +5,11 @@ thumbnail: uncapped.jpg
 summary: "The pen is pretty much as everyone describes it. But there are some details which I only found out after writing with one myself."
 tags: [pens, sailor]
 draft: false
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110684492034760677
 ---
 
 > This is not a review. I haven't even had this pen for a month yet. I just wanted to talk about the process of buying a pen, I guess. I know I'm not the only one who deliberates a lot before making a purchase and perhaps others would get a kick out of reading my thought process... or at least they could laugh at how long it is.
