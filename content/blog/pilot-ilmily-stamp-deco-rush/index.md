@@ -4,6 +4,11 @@ date: 2023-07-30T12:00:13+08:00
 tags: [review, decoration, plus, pilot ilmily]
 thumbnail: both.jpg
 draft: false
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110801609452318869
 ---
 
 I've been eyeing tiny stamps for a while, wondering if there was a low effort and consistent way to include them in my journaling habits. Turns out that the best place for them is in my A6 planner/journal where I often want to communicate things quickly.
