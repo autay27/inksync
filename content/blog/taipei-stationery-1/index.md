@@ -4,6 +4,11 @@ date: 2023-08-14T20:13:51+01:00
 tags: [taiwan, locations]
 thumbnail: gazingfar2.jpg
 draft: false
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110890395997476050
 ---
 
 I spent a month in Taipei and did a lot of stationery shopping (my excuse was that it was an incentive to explore the city more). This time I'll talk about my experience with specialised stationery shops. These might be a little more out of the way, but are well worth the visit for an enthusiast.
