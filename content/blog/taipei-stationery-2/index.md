@@ -7,6 +7,10 @@ tags: [taiwan, locations]
 thumbnail: tsutaya_ink.jpg
 summary: "I spent a month in Taipei and did a lot of stationery shopping (my excuse was that if I'm going to shop anyway, far better there than back in the UK). This time I’ll talk about the less niche places where you can find stationery."
 
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 110929830788819660
 ---
 
 I spent a month in Taipei and did a lot of stationery shopping (my excuse was that if I'm going to shop anyway, far better there than back in the UK). This time I’ll talk about the less niche places where you can find stationery - places which also sell a lot of other items, and which you might pass by on your way to something else.
