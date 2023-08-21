@@ -19,6 +19,8 @@ Note: I was just a tourist and I'm only writing about the ones I actually visite
 
 Okay, this one is not a shop in particular. But I've previously posted about the [2023 Taipei Stationery Fair](/blog/taipei-stationery-fair), and I also visited something called the Eslite Ideal Stationery Fair. Do investigate if there are any events going on where you may find new products or exclusives.
 
+{{< figure src="stationeryfair.jpg" caption="Ink bottles at the Eslite event." >}}
+
 ### Molly Lifestyle
 
 The most convenient on the list, it's right by Zhongxiao Xinsheng MRT station. Impressive range of fountain pens, inks, and other aesthetic stationery crammed into a small space. Every nib size for Pilot, Sailor, and Platinum's entry level gold pens are available to try at the counter. I believe their Japanese pens are grey market which is why you can get them at close to street price; it's where I [got my Sailor Pro Gear Slim](/blog/sailor-pgs-choice-and-impressions).
@@ -29,13 +31,13 @@ Hidden on a side street just opposite Molly Lifestyle. It's focused on pencils, 
 
 ### Juspirit ([website](https://www.juspirit.com.tw/))
 
-An entire apartment's worth[^1] of fountain pen ink! And each has at least one beautiful swatch card. Very friendly and helpful staff. Make sure to check out the more hard-to-find Taiwanese and Japanese inks (for me, the highlight was Lennon Tool Bar). Plus fountain pen paper, some elegant pen cases, and a lot of fountain pens out on the desk for you to try - notably Opus 88. As an ink lover, coming to a shop which is clearly made by and for people like me was a lot of fun.
+An entire apartment's worth[^1] of fountain pen ink! And each has at least one beautiful swatch card. Very friendly and helpful staff. Make sure to check out the more hard-to-find Taiwanese and Japanese inks (for me, the highlight was Lennon Tool Bar, they also have their own brand Ink Institute). Plus fountain pen paper, some elegant pen cases, and a lot of fountain pens out on the desk for you to try - notably Opus 88. As an ink lover, coming to a shop which is clearly made by and for people like me was a lot of fun.
 
 [^1]: Literally. It's hidden inside an apartment building. You can check on Google Maps to be sure what the entrance looks like.
 
 ### Ty Lee Pens ([website](https://www.tylee.tw/))
 
-This place reminds me of a Western pen shop, but a very impressive one. The first floor is a veritable fountain pen museum with a huge display of pens - including the most rare, expensive, and ridiculous ones - from both Asian and Western brands. Definitely the most variety of any shop I've been to. In the basement are inks from around the world (do ask the assistant for the swatch books, there are at least two), fountain pen friendly notebooks, and a good variety of leather pen cases and sleeves.
+This place reminds me of a Western pen shop, but a very impressive one. The first floor is a veritable fountain pen museum with a huge display of pens - including the most rare, expensive, and ridiculous ones - from both Asian and Western brands. Definitely the most variety of any shop I've been to. They make some pens of their own as well. In the basement are inks from around the world (do ask the assistant for the swatch books, there are at least two), fountain pen friendly notebooks, and a good variety of leather pen cases and sleeves.
 
 {{< figure src="tylee.jpg" caption="Humungous. I regret not asking the shopkeeper for an explanation about these." >}}
 
