@@ -6,6 +6,11 @@ draft: false
 thumbnail: broad.jpg
 summary: "Lie de Thé has the kind of romantic colour that seems best suited for an art project or an aesthetic scrapbook."
 tags: [ink, j herbin]
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 111008346259837276
 ---
 
 {{< figure src="wholepage.jpg" caption="The paper is Clairefontaine 90gsm. Text from Gödel, Escher, Bach by Douglas Hofstadter." >}}
