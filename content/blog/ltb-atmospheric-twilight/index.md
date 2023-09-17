@@ -1,5 +1,5 @@
 ---
-title: "(Lennon Tool Bar Atmospheric Twilight)"
+title: "Lennon Tool Bar Atmospheric Twilight"
 date: 2023-09-16T13:35:13+01:00
 draft: false
 
