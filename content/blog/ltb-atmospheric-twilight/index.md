@@ -6,6 +6,11 @@ draft: false
 tags: [lennon tool bar, ink, review, art supplies]
 thumbnail: broad.jpg
 summary: "Lennon Tool Bar Atmospheric Twilight is a medium grey with a purple tint and a slightly opaque appearance. This ink is almost completely waterproof."
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 111081965399434951
 ---
 
 {{< figure src="wholepage.jpg" caption="The paper is Clairefontaine 90gsm. Text from Gödel, Escher, Bach by Douglas Hofstadter." >}}
