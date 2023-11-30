@@ -5,6 +5,12 @@ draft: false
 
 tags: [mechanical pencils, pilot]
 summary: "Although I like mechanical pencils in theory, I have a history of vague dissatisfaction with them; in hindsight, I couldn't stop associating them with those moments where I got over-excited, pressed too hard, and my train of thought got interrupted by a crunch of graphite and a black mark. But the Mogulair broke that trend."
+thumbnail: pressin.jpg
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 111501467308527482
 ---
 
 {{< figure src="pencil.jpg" >}}
