@@ -5,6 +5,11 @@ draft: false
 
 tags: [notebooks, bullet journaling]
 thumbnail: rapidlog.jpg
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 111624512541811730
 ---
 
 I just filled out my first bullet journal in a few years! Let's share some photos and talk about what went well and what I'll change in the next one.
