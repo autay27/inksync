@@ -42,4 +42,6 @@ It's frustrating, because I still like this pen and I don't think it has any par
 
 I'll have to keep living without a TWSBI. At least until they release another model with a quirky, straight-barreled design...
 
+*Update: As per [a more recent post](blog/2024-bits-and-pieces), I feel a lot better about the TWSBI now and have been happily using it for bullet journaling.*
+
 [^1]: I really think this is a me problem, because I haven't heard anyone else complaining that the GO is not ergonomic. If you're thinking of buying it, I guess you could look up the section/body diameter of the GO and tape a wad of tissues around an existing pen to simulate the discrepancy.
