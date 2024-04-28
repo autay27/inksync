@@ -8,7 +8,7 @@ Hi there, I'm Au. I use fountain pens every day for taking notes and journaling.
 
 All photos are intended to give a general impression, not an accurate depiction, of the subject. They do not make a good reference, e.g. for the colour of ink.
 
-I am based in the UK. You can contact me [on Mastodon](https://sunny.garden/@inksync) or at goldgustwindfall@gmail.com.
+I am based in the UK. You can contact me [on Mastodon](https://sunny.garden/@inksync) or at au.taylor.27@gmail.com.
 
 ---
 
