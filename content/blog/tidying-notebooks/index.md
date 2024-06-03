@@ -6,6 +6,14 @@ tags: [tidying, notebooks]
 thumbnail: tidiednotebooks.webp
 summary: "Recently I read _The Life-Changing Magic of Tidying Up_ by Marie Kondo. The book is famous for a reason---it is incredibly entertaining and gets you motivated to tidy up yourself. "
 
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 112554354982322043
+
+-
+
+
 ---
 
 Recently I read _The Life-Changing Magic of Tidying Up_ by Marie Kondo. The book is famous for a reason---it is incredibly entertaining and gets you motivated to tidy up yourself. I am having some fun trying it out (although I'm not being as strict as recommended, so I won't be mad if my life isn't changed as a result). Following the order of categories listed in the book, I've tidied clothes, books and papers so far and haven't even touched my pens and art supplies. 
