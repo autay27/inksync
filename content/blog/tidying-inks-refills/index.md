@@ -6,6 +6,12 @@ tags: [tidying, ink]
 thumbnail: "pencilleads_2.webp"
 summary: "Boxes and bags were in so many places in my room, they were dealing psychic damage every time I opened a drawer or a cupboard! They needed a tidying up ASAP!"
 
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 112605172654772640
+-
+
 ---
 
 As I mentioned [last time](/blog/tidying-notebooks), I've been doing some Marie Kondo-style tidying. In the last few days I finally reached the 'stationery' category in my tidying spree. 
