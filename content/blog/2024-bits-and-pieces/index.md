@@ -23,7 +23,7 @@ I enjoy a bit of self-denial and since I didn't bring my Pilot Custom 74 F on my
 
 ### Giving a pen and ink a second chance
 
-A few months back I was [whining about how the TWSBI GO makes my hand hurt](blog/twsbi-go) and I wanted to sell it. I couldn't find a buyer so it sat in my drawer until recently, when I pulled it out at random and filled it with Diamine Chocolate Brown, an ink I don't even like the colour of (I've tried and failed to give this one away too).
+A few months back I was [whining about how the TWSBI GO makes my hand hurt](blog/twsbi-go/) and I wanted to sell it. I couldn't find a buyer so it sat in my drawer until recently, when I pulled it out at random and filled it with Diamine Chocolate Brown, an ink I don't even like the colour of (I've tried and failed to give this one away too).
 
 I don't know if it's because it's a very lubricating ink or because I've changed my habits somehow, but writing with the GO doesn't hurt my hand anymore, and I like how it makes Chocolate Brown look too! A double redemption.
 

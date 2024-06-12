@@ -11,8 +11,6 @@ comments:
   username: inksync
   id: 112554354982322043
 
--
-
 
 ---
 
@@ -25,3 +23,5 @@ I decided that my unused notebooks come under the 'papers' category. I have hoar
 Now I can display them, see them every day and look forward to using them in the future. And hopefully it will remind me that I have plenty and don't need to buy more!
 
 The container is made from a cardboard mini set of drawers, which I had never found a good use for before. I laid it flat and took out the drawers themselves, which will probably come in handy for storing small items. And yes, there is a third compartment which is empty, and I'm sure I'll find something to go in there too...
+
+_Update: I now store my ebook reader in there between uses. It's around A6 size, so it looks just right in there._
