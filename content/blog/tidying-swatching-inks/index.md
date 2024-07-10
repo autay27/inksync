@@ -5,6 +5,11 @@ draft: false
 tags: [ink, diamine, tidying, preferences]
 thumbnail: "bottles.webp"
 summary: The worst thing about keeping the stuff I don't want is that I repeatedly come back and give it another chance. As a result, I've written pages and pages in colours of ink that I hate.
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 112764393586706452
 ---
 
 {{< figure src="bottles.webp" caption="The rejects" >}}
