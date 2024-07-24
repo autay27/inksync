@@ -3,7 +3,7 @@ title: "Currently Inked: 7th June 2023"
 date: 2023-06-07T17:22:38+01:00
 draft: false
 thumbnail: full.jpg
-tags: [currently inked]
+tags: [currently inked, ink]
 
 comments:
   host: sunny.garden
