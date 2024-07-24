@@ -5,6 +5,11 @@ draft: false
 tags: [currently inked, ink, notebooks, bullet journaling]
 summary: "I've been quite happy with my stationery usage recently, so let's share some photos."
 thumbnail: studynotes.webp
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 112843201231290173
 ---
 
 I've been quite happy with my stationery usage recently, so let's share some photos.
