@@ -5,6 +5,10 @@ draft: false
 tags: [blogging]
 summary: "This 'Ink Sync' blog of mine has been going for a whole year now. What insights have I gathered from writing approximately 17,000 words and taking approximately 120 photos?"
 
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 112899700832158832
 ---
 
 I was surprised to see that [my latest "recently inked" post](/blog/recently-inked-jul-2024) was made over a year since [the last one](/blog/currently-inked-2023-06-07/). This 'Ink Sync' blog of mine has been going for a whole year now. What insights have I gathered from writing approximately 17,000 words and taking approximately 120 photos? (Just kidding--I have taken many, many more than 120. Photographing things is hard.)
