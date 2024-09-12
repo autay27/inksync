@@ -18,7 +18,9 @@ My interest was piqued recently by Pitman shorthand, which once claimed to be th
 
 {{< figure src="pitman_consonants.png" caption="The Pitman consonants - heavier lines indicate the consonant is voiced. Vowels are indicated by dots when necessary." >}}
 
-While Teeline stipulates the paper you write on, Pitman stipulates the pen--while a pencil or ballpoint would be able to produce the varying widths, a regular fountain pen would not. Indeed, fountain pens with flex nibs used to be created for the purpose and marketed as 'shorthand nibs'--Esterbrook even produced nibs marked specifically for Pitman or for Gregg shorthand! [Here](https://shorthandtypist.wordpress.com/2016/12/07/shorthand-pens/) is a nice blog post on the topic written by a user of shorthand pens, and [here](https://www.youtube.com/watch?v=bgqimduDWd8) is a video of Pitman being written with a Noodler's flex pen.
+While Teeline stipulates the paper you write on, Pitman stipulates the pen: while a pencil or ballpoint would be able to produce the varying widths, a regular fountain pen would not. Indeed, I discovered that fountain pens with flex nibs used to be created especially for the purpose and marketed as 'shorthand nibs'--Esterbrook even produced nibs marked specifically for Pitman or for Gregg shorthand!
+
+[Here](https://shorthandtypist.wordpress.com/2016/12/07/shorthand-pens/) is a nice blog post on the topic written by a user of shorthand pens, and [here](https://www.youtube.com/watch?v=bgqimduDWd8) is a video of Pitman being written with a Noodler's flex pen.
 
 When I posted about this on [my Mastodon account](https://sunny.garden/@inksync), [kby](https://freiburg.social/@6b6279) let me know that German shorthand also makes use of line weights and that it was the original purpose of this beautiful Brause 'Blue Pumpkin' dip pen nib.
 
