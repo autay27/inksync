@@ -5,6 +5,11 @@ tags: [uk, events]
 thumbnail: 1.webp
 summary: "I wasn't looking for anything in particular at the show but I went in with an open mind and (to a certain extent) wallet. Here is my tiny window into the event..."
 draft: false
+
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 113426923583254919
 ---
 
 It's been nearly a month already since the London Pen Show. Do excuse the lateness of this post, my life has been hectic again. Also excuse the photo quality as I hadn't gotten used to my new camera yet.
