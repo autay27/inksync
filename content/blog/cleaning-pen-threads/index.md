@@ -15,6 +15,8 @@ Just a quick post about cleaning threads, such as the ones on pens with twist ca
 
 Today I realised that a paintbrush also works! I happened to have a watercolour brush on hand. It has fine and soft bristles so I don't need to worry about scratching the pen. Just push the bristles into the threads and flick the dust out. 
 
+> Update: I've discovered that something even better and easier to use is an extra fine toothbrush. It might be easier for you to get as well.
+
 {{< figure src="brush_and_pen.webp" alt="A watercolour brush and an uncapped Sailor Pro Gear Slim" >}}
 
 Dust in the threads was a particular problem with my Sailor Pro Gear Slim, which (as I mentioned [when I bought it](blog/sailor-pgs-choice-and-impressions/)) shows up any dust immediately because it's white. I don't feel the need to keep my pens pristine, but it was bothering me that I couldn't clean the pen if I *wanted* to and that it was somehow permanently being defiled by my dusty little hands. I feel better after finding a way to clean it. 
