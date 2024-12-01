@@ -7,6 +7,11 @@ tags: [taiwan, mechanical pencils, pens, ink, fine writing international]
 summary: "My trip to Taiwan this year was not focused on stationery, but I've still ended up with some interesting finds."
 thumbnail: 5.jpg
 
+comments:
+  host: sunny.garden
+  username: inksync
+  id: 113578402274495972
+
 ---
 
 My trip to Taiwan this year was not focused on stationery, but I've still ended up with some interesting finds.
