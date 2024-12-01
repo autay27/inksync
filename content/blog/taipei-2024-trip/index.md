@@ -1,5 +1,5 @@
 ---
-title: "Taiwan 2024: In-house inks and my first nib grind"
+title: "Taiwan 2024: In-house inks and Crescent nib grind"
 date: 2024-12-01T15:08:09Z
 draft: false
 
